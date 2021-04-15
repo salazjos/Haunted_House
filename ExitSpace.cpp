@@ -6,7 +6,7 @@ implementations for ExitSpace class.
 ********************************************/
 
 #include "ExitSpace.h"
-#include "Player.hpp"
+#include "Player.h"
 #include <iostream>
 #include <sstream>
 using std::cout;
